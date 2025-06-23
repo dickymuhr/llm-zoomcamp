@@ -1,6 +1,7 @@
 tqdm
 notebook==7.1.2
 openai
-elasticsearch
+elasticsearch==8.13.0
 scikit-learn
 pandas
+ipywidgets
